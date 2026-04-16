@@ -8,7 +8,7 @@
   <tr>
     <td width="50%" align="left" style="border: none; vertical-align: middle; padding: 10px 0;">
       <h1>Hi, I'm Huy Hoàng 👋</h1>
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=c084fc&center=false&vCenter=true&multiline=false&width=600&lines=Welcome+to+my+universe+🌌;Fullstack+Developer+%26+Tech+Enthusiast+🚀" />
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=c084fc&center=false&vCenter=true&multiline=false&width=600&lines=Welcome+to+my+universe+%F0%9F%8C%8C;Fullstack+Developer+%26+Tech+Enthusiast+%F0%9F%9A%80" />
       <br/><br/>
       <!-- Social badges -->
       <a href="mailto:buihoang3425@gmail.com"><img src="https://img.shields.io/badge/Gmail-buihoang3425-1b0042?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0a0020"/></a>
