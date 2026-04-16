@@ -7,7 +7,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="left" style="border: none; vertical-align: middle; padding: 10px 0;">
-      <h1>Hi, I'm Huy Hoàng 👋</h1>
+      <h1>Hi, I'm Huy Hoang 👋</h1>
       <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=c084fc&center=false&vCenter=true&multiline=false&width=600&lines=Welcome+to+my+universe+%F0%9F%8C%8C;Fullstack+Developer+%26+Tech+Enthusiast+%F0%9F%9A%80" />
       <br/><br/>
       <!-- Social badges -->
