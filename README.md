@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<table width="100%">
+<table width="100%" border="0">
 
 <tr>
 <td align="center">
@@ -147,4 +147,3 @@
 *✦ &nbsp;Crafted with passion by **Huy Hoàng** &nbsp;·&nbsp; One commit closer to the dream &nbsp;✦*
 
 </div>
-
